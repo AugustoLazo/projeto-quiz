@@ -63,7 +63,7 @@ const perguntas = [
         correta: 2
     },
     {
-        pergunta: "Qual destas declarações de loop é usada apenas para iteração sobre propriedades de um objeto em JavaScript?",
+        pergunta: "Qual destas declarações de loop é usada apenas para interação sobre propriedades de um objeto em JavaScript?",
         resposta: [
             "for loop",
             "while loop",
